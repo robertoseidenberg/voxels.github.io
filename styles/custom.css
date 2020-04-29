@@ -1,0 +1,93 @@
+html {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  margin: 24px;
+}
+
+body {
+  background-color: #d2d2d2;
+}
+
+
+a {
+  font-weight: bold;
+  color: black;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+div {
+  font-size: 12px;
+  margin: O;
+  padding: 6px;
+  font-weight: light;
+  width: auto;
+  display: inline-block;
+}
+
+video {
+  display: block; margin: auto;
+  height: 800px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.black {
+  font-weight: bold;
+  color: white;
+  background-color: black;
+}
+
+.gray1 {
+  background-color: #e1e1e1;
+  color: black;
+}
+
+.gray2 {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.peach {
+  background-color: #f4e2d9;
+  color: black;
+}
+
+.mandarina {
+  background-color: #fbebcf;
+  color: black;
+}
+
+.lime {
+  background-color: #e2e7dc;
+  color: black;
+}
+
+.fume {
+  background-color: #cbdbdf;
+  color: black;
+}
+
+.sky {
+  background-color: #c7ebf7;
+  color: black;
+}
+
+.piglet {
+  background-color: #f7d7e3;
+  color: black;
+}
+
+.pig {
+  background-color: #f3c7db;
+  color: black;
+}
