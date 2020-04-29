@@ -11,7 +11,7 @@ $(document).ready(function() {
 	var webkit = !!ua.match(/WebKit/i);
 	var iOSSafari = iOS && webkit && !ua.match(/CriOS/i);
 
-	if (iOSSafari == false) {
+	if (iOSSafari == true) {
 		$("video").css("display", "none")
 	}
 });
