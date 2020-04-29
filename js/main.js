@@ -12,6 +12,6 @@ $(document).ready(function() {
 	var iOSSafari = iOS && webkit && !ua.match(/CriOS/i);
 
 	if (iOSSafari == true) {
-		$("video").css("display", "none")
+		$( "video" ).remove();
 	}
 });
