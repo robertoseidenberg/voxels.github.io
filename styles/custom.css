@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-color: #d2d2d2;
+  background-color: #c0c0c0;
 }
 
 a {
@@ -29,7 +29,6 @@ div {
 }
 
 video {
-  display: block; margin: auto;
   height: 800px;
 }
 
